@@ -15,10 +15,8 @@ def text_from_tesseract_ocr(file_path, rate=170):
     text = pytesseract.image_to_string(thresh, config=custom_config)
     bill_machine = bill_cutter.Cutter()
     products_list, text = bill_machine.cut_bill(text)
-    products_list = bill_machine.get_products_dict(products_list, file_path)
-
-
-    return products_list[1:], text
+    products_list, bill_products = bill_machine.get_products_dict(products_list, file_path)
+    return products_list, text
 
 if __name__ == "__main__":
     for i in range(0, 7):
