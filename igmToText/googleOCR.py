@@ -1,4 +1,4 @@
-API_key = "AIzaSyBHJOXbQFFASCSYpJEShBtg1U9PaB96rCY"
+API_key = ""
 
 from google.cloud import vision
 import os
