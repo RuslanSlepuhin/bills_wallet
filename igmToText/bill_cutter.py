@@ -31,7 +31,7 @@ class Cutter:
     #     pass
     #     return bill_products, preview_text
 
-    def cut_bill(self, text) -> list:
+    def cut_bill(self, text) -> [list, str]:
         products_list = []
         text = " ".join(text.split("\n"))
         raw_text = text
@@ -54,7 +54,7 @@ class Cutter:
                 pass
         return text
 
-    def get_products_dict(self, bill_products:list, file_path:str=None) -> list:
+    def get_products_dict(self, bill_products:list, file_path:str=None) -> [list, str]:
         products_value_list = []
         for product in bill_products:
             product_dict = {}

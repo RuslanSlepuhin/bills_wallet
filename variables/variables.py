@@ -48,3 +48,5 @@ price_and_cost = "[0-9][0-9]{0,3}\W?[,.][0-9 С]{2,3}"
 separate_products_throw_text = r"\s{1}[0-9]{5,13} [а-яА-Я%]{3,}\s?[а-яА-Я0-9]{1,}|П[АаКкЕеТт]{4}"
 
 repair_keys = ['cost', 'price', 'code', 'quantity']
+
+keys = ['product', 'code', 'price', 'quantity', 'cost']
