@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "goofle-drive-test-381714",
+  "private_key_id": "35ac81751cd7ead84221dc3c60c5d4e4f1852d82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHHCZgKXUmBVFA\nvjQjvQ1MGHiL7TDK59f0NB6u+MkiZzXhTFyxe4hF2ye9EmUipHsswjZcbDjWXIm6\nmyMWdsjERoX5Gtf6ujc2Jlr8G3dYeLCvC/EK5+FmWm6J4rhJA/lc/Cn07VfHo0rz\n97p1l/A21aBwZXQZCDQEq8h0xJxzYcBvYSyUDDQSarUBOiRnDOpe0ybTJYeERrUY\n8TzhMxi8GmMjNRL/92IWs4YygxGwhRQHmBekqXnQsAEEhw//9bxKOcOIZ52HJ3L/\n8ts8OPFWAptxP9F2u0keblH6IxpgegvvMnMDd2jSWDeNDWzq97T4Z/jETLo3MRxA\nAdbiRJIpAgMBAAECggEAHNPrN8+zfGvCAI5esjCfCj4eG0meNOKDFoJX/EayUwl/\nzZI8IXOcnrCaUk+lgPHbkPbANCV0co+MtA3eHf8uFkI3siy8HzsdifjdAioKii6p\n4M4+egZp+2MVz1+aBZ2jrwjQx6Yi0sQbsrL9YM/ndv5Qb7WLV6HOa5a2O+HI3ROE\n8rdPMyMkjVY/6scpF4NhMYT4vZ45Wxa6KaqVIIfuhb8tTC+BDKnya+ZlOz+U+mNL\n44rykkGoxz2rg+xl7ubR52hjBTrJmvl3Hb2An1QTea+eFfX+N7AEgYMU35qQ2pbh\nkNUMORxTbLxnjtMxN5UVJpIz+vsw+GoutD3ti8oaGQKBgQD9nj/+kRvai5mIGOiL\nrHB10V7xCZN070F2ckJ/IrIgWHxa/DKiDCD/AOy2b3jB/VcaejX+kt8GQOvBubJv\n2/ihwwRsh2oKwsRdLjJkc4QWcaJz6+Wa3L8be/vmMndMXyCzRBSv1t1jcKsE6GRn\n7mXWxv/eL73kQdKBMS35BzKC4wKBgQDI+tndtVGFPRG/pgci9DoM/65RKirXLHam\np9l9ymHX6hdt/YwcjlBAW4YQ6wm6yqT3FV+hdrAp1EO7cfijXG118l0BmNGS+K42\nO/Zuanmar+p1Le+/RUNPI0thVFJYnPAxoLQeMu+fJ4NjuxZEflnyT6QlO3U03X0P\n+dIJqQGIgwKBgQDgHE8AbMnoPSPWl+wmQKK/+dujs4qR8jouqJkKL2aoHokE/Ybg\nm0ctD2wdajOTeILX6tZ7tt1NcWDjN2zuW7tBdksafC7Ag4txq7jr+wflrVSYiwPB\n7P8TEmRt7nptCkKjJq4BFCVeEdmN5K2VCZ0ERaUkeZubcG7LquGtBSclcQKBgHmI\nJ2KIGGmniioH7dzXLptZqUFvbER9oKoaacxFK3FzHwPmBGnoLOMd9S4Z0uJfU+4N\nwKxUpyZEM0kQHDg81fwyuMcUb/ad5krpa5VNUYeWxQJi6s0Qxyj9wMF0Se9Hx39b\nHE/+oSPusucF5Os6NI3wVuQk1jVHki6s9LPevQydAoGATG9V7wktbCwDyRh9kaQm\nT+E89F8qWZa/2rhRiDUO7V87RSoeIwKpDof2Z021zLUsOhterktU7ts9qDmtBTT5\neRsBxzA62Z+u7bPDsOeCl2+TZLJasMqgH5Ogo/1fnJYN2C7bkJmKNvw12e5ErwtK\n2Fp8GlWa6VFea1j/U/KU3V0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@goofle-drive-test-381714.iam.gserviceaccount.com",
+  "client_id": "105285291946962976434",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40goofle-drive-test-381714.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
